@@ -1,4 +1,4 @@
-module github.com/hbstack/theme-cards
+module github.com/cambo-rynd/theme-cards
 
 go 1.19
 
