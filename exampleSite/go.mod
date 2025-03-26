@@ -1,8 +1,8 @@
-module github.com/hbstack/theme-cards/exampleSite
+module github.com/cambo-rynd/theme-cards/exampleSite
 
 go 1.19
 
-replace github.com/hbstack/theme-cards => ../
+replace github.com/cambo-rynd/theme-cards => ../
 
 require (
 	github.com/GoogleChrome/workbox v7.3.0+incompatible // indirect
