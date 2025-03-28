@@ -1,8 +1,8 @@
 ---
-title: "Install From Scratch"
-description: "Getting started from scratch with HB cards theme to build your fast, responsive and modular static websites."
+title: "Think twice before you think again..."
+description: "This is for testing purposes-- Kyle sucks"
 # linkTitle:
-date: 2023-12-02T11:47:31+08:00
+date: 3069-12-02T11:47:31+08:00
 draft: false
 noindex: false
 featured: true
@@ -18,7 +18,7 @@ categories:
 tags:
   - Installation
 images:
-  - https://example-images.razonyang.com/website-design.webp?width=1920&height=1280
+  - https://photos.fife.usercontent.google.com/pw/AP1GczMAyADSZk68rIBqY9vODQoPwTJG2qu8sP4_f2PnJg7Xazw0lITZyzjScA=w2304-h1297-s-no?authuser=1
 # menu:
 #   main:
 #     weight: 100
@@ -28,11 +28,10 @@ images:
 #         name: book
 #         color: '#e24d0e'
 authors:
-  - HB
-  - HugoMods
+  - cr
 ---
 
-We offers an example site for getting started with this theme.
+This is still just a staging site with shenanigans going on.
 
 {{< bs/alert danger >}}
 {{< markdownify >}}
@@ -41,12 +40,13 @@ Please run these commands from [PowerShell](https://learn.microsoft.com/en-us/po
 {{< /bs/alert >}}
 
 ## Requirements
-
+- a 9-Iron
+- ice cubes
 - Go
 - Hugo extended version
 - Node.js `16` or later
 
-Read more on [prerequisites](https://hbstack.dev/docs/getting-started/prerequisites/).
+Read more on [not clicking random links](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
 
 ## Clone the Repository
 
@@ -98,7 +98,7 @@ npm ci
 
 ## Hugo Module Proxy (Optional)
 
-A [Hugo module proxy](https://hugomods.com/blog/2023/04/go-and-hugo-proxy-servers/) is required when the default proxy isn't accessible from your location, i.e. China.
+A [test](https://www.youtube.com/watch?v=dQw4w9WgXcQ) is required to see if you are still clicking random links.
 
 ## Preview Locally
 
@@ -110,5 +110,7 @@ npm run dev
 
 1. Tweak Configurations, such as `baseURL`, `giscus.*` and so on.
 2. Remove testing content.
-3. Read the [documentation](https://hbstack.dev/).
-4. Find more [modules](https://hbstack.dev/modules/).
+3. Read the [Do not click](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
+4. Find more [what did I just tell you](https://www.youtube.com/watch?v=dQw4w9WgXcQ)?
+
+### Bingo Sucks
