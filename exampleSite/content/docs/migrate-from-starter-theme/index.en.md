@@ -1,6 +1,6 @@
 ---
-title: "Migrate from HB Starter Theme"
-description: "This guide shows how to migrate to the HB cards theme from the HB starter theme."
+title: "Testing Pull from Rebuild"
+description: "Enjoy the picture of Gunnar, the Chairdoggo of the Board for Ryndium"
 # linkTitle:
 date: 2023-12-01T11:47:31+08:00
 draft: false
@@ -18,7 +18,7 @@ categories:
 tags:
   - Migration
 images:
-  - https://example-images.razonyang.com/speed.webp?width=1920&height=1280
+  - images/gunnBlep.jpg
 # menu:
 #   main:
 #     weight: 100
@@ -28,11 +28,10 @@ images:
 #         name: book
 #         color: '#e24d0e'
 authors:
-  - HB
-  - HugoMods
+  - cambo-rynd
 ---
 
-You can migrate to cards theme from the [starter theme](https://github.com/hbstack/theme) effortlessly within two steps.
+Something Something, something something. badgerbadgerbadgerbadgerbadgerbadger
 
 ## Import the Cards Theme Module
 
