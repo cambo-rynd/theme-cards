@@ -1,7 +1,7 @@
 ---
 type: docs
-title: "Use Docs Layout on other Sections"
-description: "Guide for using the docs layout on other sections."
+title: "Honk"
+description: "Beware the cobrachicken."
 # linkTitle:
 date: 2023-11-02T11:47:31+08:00
 draft: false
@@ -19,10 +19,9 @@ categories:
 tags:
   - Layouts
 images:
-  - https://images.pexels.com/photos/1629212/pexels-photo-1629212.jpeg?auto=compress&cs=tinysrgb&w=1600
+  - /images/violentGoose.png
 authors:
-  - HB
-  - HugoMods
+  - cambo-rynd
 ---
 
 ## Backgrounds
