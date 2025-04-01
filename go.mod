@@ -2,6 +2,11 @@ module github.com/cambo-rynd/theme-cards
 
 go 1.19
 
+replace github.com/cambo-rynd/theme-cards => github.com/cambo-rynd/theme-cards v0.0.0-20250328201606-a86f6831821d
+
+replace github.com/hbstack/base => github.com/cambo-rynd/base v0.0.0-20250328212655-0964a8175bd8
+
+
 require (
 	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20400 // indirect
 	github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 // indirect
