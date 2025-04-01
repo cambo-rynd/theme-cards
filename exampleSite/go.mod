@@ -2,7 +2,10 @@ module github.com/cambo-rynd/theme-cards/exampleSite
 
 go 1.19
 
-replace github.com/cambo-rynd/theme-cards => ../
+replace github.com/cambo-rynd/theme-cards => github.com/cambo-rynd/theme-cards v0.0.0-20250328201606-a86f6831821d
+
+replace github.com/hbstack/base => github.com/cambo-rynd/base v0.0.0-20250328212655-0964a8175bd8
+
 
 require (
 	github.com/GoogleChrome/workbox v7.3.0+incompatible // indirect
