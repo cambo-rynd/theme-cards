@@ -21,7 +21,7 @@ imports:
   - path: github.com/hbstack/blog/modules/sidebar/taxonomies
 
   # blog comments engine
-   - path: github.com/hbstack/blog/modules/giscus
+  - path: github.com/hbstack/blog/modules/giscus
   # - path: github.com/hbstack/blog/modules/disqus
   # - path: github.com/hbstack/blog/modules/utterances
 
@@ -57,4 +57,4 @@ imports:
   # see also https://hbstack.dev/en/docs/modules/meta/.
   # to remove unused modules, you need to replace the recommended module with modules your need.
   # see also https://hbstack.dev/en/2023/10/replace-meta-modules/.
-   - path: github.com/hbstack/meta/recommended
+  #- path: github.com/hbstack/meta/recommended
