@@ -1,8 +1,8 @@
 ---
-title: "Math Typesetting"
-date: 2023-11-26T16:36:24+08:00
+title: "Mathematics of Bingo Sucking"
+date: 2025-03-31T16:36:24+08:00
 draft: false
-description: "This article offers some examples about math typesetting via KaTeX."
+description: "Again, just testing and memeing on Bingo."
 noindex: false
 featured: true
 pinned: false
@@ -15,10 +15,9 @@ tags:
  - Math
  - KaTeX
 images:
-  - https://example-images.razonyang.com/math.webp?width=1920&height=1280
+  - /images/bingosucks.png
 authors:
-  - HB
-  - HugoMods
+  - cambo-rynd
 ---
 
 ## Using KaTeX Code Block
