@@ -1,8 +1,8 @@
 ---
 title: "Diagrams and Charts"
-date: 2023-11-26T16:36:24+08:00
+date: 2025-03-31T18:36:24+08:00
 draft: false
-description: "This article offers some examples about using Mermaid for diagramming and charting."
+description: "A Venn Diagram of 'Bingo' and 'Sucking' is just a circle"
 noindex: false
 featured: true
 pinned: false
@@ -16,11 +16,14 @@ tags:
  - Charts
  - Mermaid
 images:
-  - https://example-images.razonyang.com/flowchart.webp?width=1920&height=1280
+  - images/bingoVennDiagram.png
 authors:
-  - HB
-  - HugoMods
+  - cambo-rynd
 ---
+
+## Once again, this is just good fun memeing as I test content deployment.
+
+
 
 ## Using Mermaid Code Block
 
