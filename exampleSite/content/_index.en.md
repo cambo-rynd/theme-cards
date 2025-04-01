@@ -1,5 +1,5 @@
 ---
-title: Test Theme
+title: Test Site
 # menu:
 #   main:
 #     name: Home
