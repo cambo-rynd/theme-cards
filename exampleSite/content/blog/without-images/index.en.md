@@ -1,11 +1,11 @@
 ---
-title: Example Post without Images
+title: Zero Image Test
 featured: true
-date: 2022-09-10
+date: 2025-03-31
 series:
   - Examples
 tags:
   - Images
 ---
 
-A sample for showing how theme display posts those without images.
+Testing adjustment with no images.
