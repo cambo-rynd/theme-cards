@@ -2,7 +2,7 @@
 title: "Think twice before you think again..."
 description: "This is for testing purposes-- Kyle sucks"
 # linkTitle:
-date: 3069-12-02T11:47:31+08:00
+date: 2024-12-02T11:47:31+08:00
 draft: false
 noindex: false
 featured: true
@@ -18,7 +18,7 @@ categories:
 tags:
   - Installation
 images:
-  - https://photos.fife.usercontent.google.com/pw/AP1GczMAyADSZk68rIBqY9vODQoPwTJG2qu8sP4_f2PnJg7Xazw0lITZyzjScA=w2304-h1297-s-no?authuser=1
+  - images/hqdefault.jpg
 # menu:
 #   main:
 #     weight: 100
