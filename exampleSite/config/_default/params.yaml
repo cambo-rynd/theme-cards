@@ -45,7 +45,7 @@ hb:
         location: The Basement
         socials:
           github: cambo-rynd
-          mastodon: n/a
+         # mastodon: n/a
           rss: true
       posts:
         recent_count: 5 # the number of recent posts.
@@ -86,19 +86,20 @@ hb:
         - blog
         - news
     giscus:
-      repo: hbstack/theme-cards
-      repo_id: R_kgDOK1LmSQ
-      category_id: DIC_kwDOK1LmSc4CbdiM
+      repo: cambo-rynd/ryndium-comments
+      repo_id: R_kgDOOSaogQ
+      category_id: DIC_kwDOOSaogc4Corsi
   docs:
     giscus:
       repo: hbstack/theme-cards
-      repo_id: R_kgDOK1LmSQ
-      category_id: DIC_kwDOK1LmSc4CbdiM
+      repo_id: R_kgDOOSaogQ
+      category_id: DIC_kwDOOSaogc4Corsi
     social_share_buttons:
       alignment: center
       media:
         - twitter
-        - facebook
+        - instagram
+       # - facebook
         - linkedin
   content_panel:
     repo:
