@@ -12,14 +12,14 @@ main:
     weight: 100
     url: mail@ryndium.io
     params:
-      header: Ways to contact me
+      header: Get in touch with me.
       icon:
         vendor: font-awesome-solid
         name: headset
 
   - name: Documentation
     parent: support
-    url: https://hbstack.dev/
+    url: https://example.org/tbd
     weight: 1
     params:
       icon:
