@@ -1,7 +1,3 @@
-# For some regions can not access the proxy.golang.org, i.e. China.
-# See https://hugomods.com/en/blog/2023/04/go-and-hugo-proxy-servers/ for all available proxy servers.
-# proxy: https://goproxy.cn,direct
-
 # The order of module is very important, precedence from top to bottom.
 imports:
   - path: github.com/hbstack/theme-cards
@@ -25,7 +21,7 @@ imports:
   - path: github.com/hbstack/blog/modules/sidebar/taxonomies
 
   # blog comments engine
-  # - path: github.com/hbstack/blog/modules/giscus
+   - path: github.com/hbstack/blog/modules/giscus
   # - path: github.com/hbstack/blog/modules/disqus
   # - path: github.com/hbstack/blog/modules/utterances
 
