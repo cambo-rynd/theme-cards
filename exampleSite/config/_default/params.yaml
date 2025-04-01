@@ -10,6 +10,8 @@ hb:
     # see https://hbstack.dev/en/docs/modules/socials/.
     socials:
       github: cambo-rynd
+      linkedin: https://www.linkedin.com/in/cameronrynd
+      instagram: n/a
       # twitter: n/a
       rss: true
       # mastodon: n/a
@@ -18,7 +20,9 @@ hb:
     socials:
       _color: true # when false, remove the color of social icons.
       github: cambo-rynd
+      linkedin: https://www.linkedin.com/in/cameronrynd
       twitter: n/a
+      instagram: 
       rss: true
       # mastodon: n/a
   blog:
@@ -30,8 +34,8 @@ hb:
       alignment: center
       media:
         - twitter
-        - instagram
-        #- facebook
+        # - instagram
+        # - facebook
         - linkedin
     sidebar:
       sticky: true # set it to false to not stick the sidebar.
@@ -45,6 +49,7 @@ hb:
         location: The Basement
         socials:
           github: cambo-rynd
+          linkedin: https://www.linkedin.com/in/cameronrynd
          # mastodon: n/a
           rss: true
       posts:
@@ -91,14 +96,14 @@ hb:
       category_id: DIC_kwDOOSaogc4Corsi
   docs:
     giscus:
-      repo: hbstack/theme-cards
+      repo: cambo-rynd/ryndium-comments
       repo_id: R_kgDOOSaogQ
       category_id: DIC_kwDOOSaogc4Corsi
     social_share_buttons:
       alignment: center
       media:
         - twitter
-        - instagram
+       # - instagram
        # - facebook
         - linkedin
   content_panel:
