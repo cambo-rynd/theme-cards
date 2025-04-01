@@ -1,5 +1,5 @@
 ---
-title: HB Cards Theme
+title: Test Theme
 # menu:
 #   main:
 #     name: Home
