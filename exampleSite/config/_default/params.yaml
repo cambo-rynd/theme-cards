@@ -30,9 +30,9 @@ hb:
       alignment: center
       media:
         - twitter
-        - facebook
+        - instagram
+        #- facebook
         - linkedin
-       # - sinaweibo
     sidebar:
       sticky: true # set it to false to not stick the sidebar.
       width: .35 # the width of sidebar.
